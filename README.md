@@ -30,4 +30,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 
-Verify the github [workflow](https://github.com/ShopRunner/terraform-aws-s3-private/actions/workflows/tag.yml) run is completed and the major version tag [`vX`](./tags) points to the same commit as `vX.Y.Z`
+Verify the github [workflow](https://github.com/ShopRunner/terraform-aws-s3-private/actions/workflows/tag.yml) run is completed and the major version tag [`vX`](/tags) points to the same commit as `vX.Y.Z`
